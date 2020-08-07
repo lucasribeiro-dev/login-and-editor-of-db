@@ -1,0 +1,30 @@
+body {
+    min-height:100vh;
+    background:rgb(43, 38, 38);
+    color: white;
+
+}
+
+.area {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -200px 0 0 -200px;
+    width:100%;
+    max-width:400px;
+    text-align:center;
+    padding:10px;
+}
+
+.logo{
+    width: 35%;
+    height:auto;
+}
+
+h3{
+    margin-top:15px;
+}
+
+#particles-js{
+    width: 100%;
+}
